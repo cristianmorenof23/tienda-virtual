@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye",
+      "precio": "400",
+      "id": 10
+    },
+    {
+      "nombre": "Uvas",
+      "precio": "250",
+      "id": 11
+    },
+    {
+      "nombre": "Peras",
+      "precio": "300",
+      "id": 12
+    },
+    {
+      "nombre": "Cebollas",
+      "precio": 230,
+      "id": 13
+    }
+  ]
+}
